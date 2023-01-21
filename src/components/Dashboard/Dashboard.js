@@ -1,8 +1,8 @@
 import React, { Component } from "react";
 import "./DashboardStyles.css";
 import loader from "./loader.gif";
-import sigiriya from "./sigiriya.jpg";
-import sigiriya2 from "./sigiriya2.jpg";
+import Travel from "./Travel.jpg";
+import Travel1 from "./Travel1.jpg";
 import sigiriya3 from "./sigiriya3.jpg";
 
 class Dashboard extends Component {
@@ -24,7 +24,7 @@ class Dashboard extends Component {
             <h1 className="d">About Us</h1>
             <br></br>
             <div className="container text-center">
-              <img src={sigiriya}></img>
+              <img src={Travel} width="50%"></img>
             </div>
             <br></br>
             <br></br>
@@ -45,7 +45,7 @@ class Dashboard extends Component {
               <br></br>
               <br></br>
               <div className="container text-center">
-                <img src={sigiriya2}></img>
+                <img src={Travel1} width="50%"></img>
               </div>
               <br></br>
               <br></br>

@@ -14,6 +14,7 @@ export class HomePage extends Component {
 
   render() {
     return (
+    <div className="Main">
       <div className="container">
         <br></br>
         <div className={"justify-content-center mt-5 mb-5"}>
@@ -23,16 +24,22 @@ export class HomePage extends Component {
         </div>
         <br></br>
         <div className="container text-left">
-          <h2>Is it safe to travel to Sri Lanka?</h2>
+          <h2>Is it safe to travel to Kerala?</h2>
           <br></br>
           <p>
-            As you know, Sri Lanka is one of the most satisfying countries to
-            travel to in South Asia. But as everyone knows, Sri Lanka had a
-            terrible time past days due to terrorist attacks. But fortunately,
-            the Sri Lankan government was able to stop their activities totally
-            within two weeks. Still, the harm they did to Sri Lanka is caused to
-            reduce the monthly visitors’ amount so severely. From this article,
-            you will know that are you safe to travel to Sri Lanka these days.
+          Considering the current situation in Kerala,it’s perfectly 
+          safe to travel to Kerala now.The Kerala situation now is quite 
+          stable and you can confidently make your travel plans to this
+          destination.If you’re a solo traveller, you don’t have to worry 
+          since there are local-run homestays in Kerala where you can stay 
+          during your travels.Keralites are some of the warmest people you’ll 
+          meet who will also guide and assist you during your stay in the region.
+          If you’re a female traveller, then also you don’t have to worry since 
+          the law and order situation is very good here. Moreover, all state and
+          government officials ensure that law and order are strictly followed 
+          and that all tourist destinations are safe for travellers. Kerala is
+          perfectly safe for foreigners from countries such as the USA, Europe,
+          UK, Australia, and China and they are welcome to come and explore the state.
           </p>
         </div>
         <br></br>
@@ -42,12 +49,12 @@ export class HomePage extends Component {
         <br></br>
         <div className="container text-left">
           <h2>
-            Sri Lanka government has expanded the safety of Sri Lankans and
+           Kerala government has expanded the safety of Keralas and
             especially foreigners
           </h2>
           <br></br>
           <p>
-            It’s been six years since we have defeat terrorism from Sri Lanka.
+            It’s been six years since we have defeat terrorism from Kerala.
             But unfortunately, Sri Lanka had to face another most crucial moment
             again by terrorist attacks. But fortunately, the former president
             Maithripala Sirisena allows the military forces to take control of
@@ -109,6 +116,7 @@ export class HomePage extends Component {
 
         <br></br>
       </div>
+    </div>
     );
   }
 }

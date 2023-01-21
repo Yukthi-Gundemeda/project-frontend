@@ -3,7 +3,7 @@
     color:#343A40 ;
     font-size:75px;
     color: rgb(4, 42, 104);
-    font-family: petrona;
+    font-family:;
     font-weight: bold;
 }
 
@@ -12,6 +12,11 @@
     text-align: center;
     
     
+}
+.Main{
+    background-image: url("");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
 }
 
   

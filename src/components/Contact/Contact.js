@@ -19,7 +19,7 @@ class Contact extends Component {
             <br></br>
             <h1 className="d">
               {" "}
-              <img src={customer}></img>&nbsp;Contact Us
+              <img src={customer} width="10%"></img>&nbsp;Contact Us
             </h1>
             <br></br>
 
@@ -36,7 +36,7 @@ class Contact extends Component {
               {" "}
               <i class="fa fa-envelope" aria-hidden="true"></i>&nbsp;Email
               <br></br>
-              <br></br>dg@srilanka.travel{" "}
+              <br></br>vy@kerala.travel{" "}
             </h5>
           </div>
         </div>
