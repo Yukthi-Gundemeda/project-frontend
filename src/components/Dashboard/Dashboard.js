@@ -29,18 +29,20 @@ class Dashboard extends Component {
             <br></br>
             <br></br>
             <p>
-              In 1966, the Government decided to develop tourism in a planned
-              and a systematic manner, after identifying the need to set up an
-              institutional framework. The Ceylon Tourist Board (created by the
-              Ceylon Tourist Board Act No. 10 of 1966) and the Ceylon Hotels
-              Corporation (created by Ceylon Hotels Corporation Act of 1966)
-              were set up duly.
+               	
+              Kerala, located on the south-western tip of India, enjoys unique
+               geographical features that have made it one of the most sought-after 
+               tourist destinations in Asia. Fondly referred to as ‘God’s Own Country’,
+              Kerala was selected by the National Geographic Traveller as one 
+              of the 50 destinations of a lifetime and one of the thirteen paradises in the world.
               <br></br>
               <br></br>
-              Created to promote rapid economic development, through the
-              development of foreign tourism, the Ceylon Tourist Board (CTB) was
-              a statutory body that allowed greater freedom in decision making
-              and flexibility in financial management.
+              Popularly referred to as 'God's Own Country', Kerala in southwestern India is
+              arguably one of the most beautiful states in the country. Home to colourful festivals,
+              traditions, attires and sumptuous food, the state is among the top tourist 
+              destinations in India. Lush with tropical vegetation, pristine beaches,
+              serene backwaters and a variety of flora and fauna, Kerala is an ideal destination
+              for honeymooners and families.
               <br></br>
               <br></br>
               <br></br>
@@ -49,37 +51,28 @@ class Dashboard extends Component {
               </div>
               <br></br>
               <br></br>
-              The legislation also covered the establishment of a national
-              holiday resort company, which planned various types of
-              accommodation and resort areas. Moreover it included the setting
-              up of an authority under the Tourist Board to manage and
-              administer each resort. The Act conferred powers for the
-              Protection of Highways and Places of Scenic Beauty and vested
-              authority in the Ceylon Tourist Board for the Registration and
-              Classification of Tourist Hotels and all other tourist services
-              including travel agencies. The Tourist Development Act of 1968
-              provided the Ceylon Tourist Board with the statutory authority to
-              develop tourism on a planned and controlled basis
+              Located on the Malabar coast of Southern India, the state's capital is Kochi (also Cochin).
+               Serviced by international and domestic airports, which are further connected by roads
+                and rail, Kerala ensures that every corner of it is well accessible by travellers.
+                 The highlight of this state for many are the brackish lagoons called backwaters,
+                  notably in Alleppey, which are best enjoyed in houseboats. Also famous here are the
+                   practices of Ayurveda which have been hailed far and wide for their healing and cleansing attributes.
               <br></br>
               <br></br>
               <div className="container text-center">
                 <img src={sigiriya3}></img>
               </div>
               <br></br>
-              In October 2007 the Tourism Act No 38 of 2005 came into effect.
-              With the circulation of the new Tourism act, the Sri Lanka Tourist
-              Board Act No 10 of 1966, which was in effect for the past 41
-              years, was replaced.
+              The traditional food, festivals and artforms are enticing to the beholder.
+               Onam is the most important festival celebrated with participation from people
+                within and outside the state. Kathakali, an essential traditional Indian dance form,
+                 is perhaps a significant testament to the colourful and graceful nature of the traditions of Kerala.
+
               <br></br>
               <br></br>
-              In terms of the provisions contained in the new act, the Tourism
-              Development Fund was legally constituted, with 2 main sources
-              remitting finances to the fund. By way of 1/3 of the Airport Tax
-              collections and 1% of the Turnover of all Sri Lanka Tourist Board
-              registered establishments. The Act provided for the setting up of
-              the Sri Lanka Tourism Development Authority, Sri Lanka Promotions
-              Bureau, Sri Lanka Convention Bureau and Sri Lanka Institute of
-              Hotel Management, thereby replacing the Sri Lanka Tourist Board.
+              Kerala is also sprawling with wildlife sanctuaries, vast tea gardens and quaint hill stations. 
+              These places are flocked by tourists throughout the year and have played a significant part
+               in Kerala being awarded by the National Geographic Traveller as one of the top 50 destinations in the world..
             </p>
             <br></br>
           </div>

@@ -29,14 +29,14 @@ class Contact extends Component {
               {" "}
               <i class="fa fa-phone" aria-hidden="true"></i>&nbsp;Phone Number
               <br></br>
-              <br></br>+94 112 426916 / +94 112 426907{" "}
+              <br></br>+91 9515139511 / +91 9542409047{" "}
             </h5>
             <br></br>
             <h5>
               {" "}
               <i class="fa fa-envelope" aria-hidden="true"></i>&nbsp;Email
               <br></br>
-              <br></br>vy@kerala.travel{" "}
+              <br></br>pbsc@srilanka.travel{" "}
             </h5>
           </div>
         </div>

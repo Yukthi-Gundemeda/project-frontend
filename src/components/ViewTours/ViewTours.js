@@ -38,7 +38,7 @@ export class ViewTours extends Component {
           {this.state.tours.map((value, key) => (
             <div className="card" key={key}>
               <img
-                src="https://images.pexels.com/photos/962464/pexels-photo-962464.jpeg?cs=srgb&dl=pexels-godson-bright-962464.jpg&fm=jpg"
+                src="https://images.unsplash.com/photo-1528543606781-2f6e6857f318?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxleHBsb3JlLWZlZWR8MTV8fHxlbnwwfHx8fA%3D%3D&w=1000&q=80"
                 className="card-img-top"
               />
               <div className="card-body">

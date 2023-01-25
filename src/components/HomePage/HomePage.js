@@ -24,22 +24,17 @@ export class HomePage extends Component {
         </div>
         <br></br>
         <div className="container text-left">
-          <h2>Is it safe to travel to Kerala?</h2>
+          <h2>Kerala</h2>
           <br></br>
           <p>
-          Considering the current situation in Kerala,it’s perfectly 
-          safe to travel to Kerala now.The Kerala situation now is quite 
-          stable and you can confidently make your travel plans to this
-          destination.If you’re a solo traveller, you don’t have to worry 
-          since there are local-run homestays in Kerala where you can stay 
-          during your travels.Keralites are some of the warmest people you’ll 
-          meet who will also guide and assist you during your stay in the region.
-          If you’re a female traveller, then also you don’t have to worry since 
-          the law and order situation is very good here. Moreover, all state and
-          government officials ensure that law and order are strictly followed 
-          and that all tourist destinations are safe for travellers. Kerala is
-          perfectly safe for foreigners from countries such as the USA, Europe,
-          UK, Australia, and China and they are welcome to come and explore the state.
+          Kerala is a state on the Malabar Coast of India. It was formed on 1 November 1956, 
+          following the passage of the States Reorganisation Act, by combining Malayalam-speaking
+           regions of the erstwhile regions of Cochin, Malabar, South Canara, and Thiruvithamkoor. Spread over 38,863 km2
+           (15,005 sq mi), Kerala is the 21st largest Indian state by area. It is bordered by Karnataka to the north
+           and northeast, Tamil Nadu to the east and south, and the Lakshadweep Sea to the west.
+          With 33 million inhabitants as per the 2011 census, Kerala is the 13th-largest Indian state by population. 
+          It is divided into 14 districts with the capital being Thiruvananthapuram. Malayalam is the most widely
+           spoken language and is also the official language of the state.
           </p>
         </div>
         <br></br>
@@ -48,45 +43,48 @@ export class HomePage extends Component {
         </div>
         <br></br>
         <div className="container text-left">
-          <h2>
-           Kerala government has expanded the safety of Keralas and
-            especially foreigners
-          </h2>
+         
           <br></br>
           <p>
-            It’s been six years since we have defeat terrorism from Kerala.
-            But unfortunately, Sri Lanka had to face another most crucial moment
-            again by terrorist attacks. But fortunately, the former president
-            Maithripala Sirisena allows the military forces to take control of
-            everything by giving them full power to defend against them, and the
-            military authorities did their job very well. And after the hardest
-            time, Again Sri Lanka back to the normal as previous days and you
-            are most welcome to travel around anywhere.
+        Kerala has the lowest positive population growth rate in India, 3.44%;
+        the highest Human Development Index (HDI), 0.784 in 2018 (0.712 in 2015);
+        the highest literacy rate, 96.2% in the 2018 literacy survey conducted by the National Statistical Office,
+        India;[8] the highest life expectancy, 77.3 years; and the highest sex ratio, 1,084 women per 1,000 men.
+        Kerala is the second-least impoverished state in India according to the Annual Report of
+        Reserve Bank of India published in 2013.Kerala is the second-most urbanised major state                                           
+        in the country with 47.7% urban population according to the 2011 Census of India. The state topped
+        in the country to achieve the Sustainable Development Goals according to the annual report of NITI 
+         Aayog published in 2019.[21] The state has the highest media exposure in India with newspapers publishin
+       in nine languages, mainly Malayalam and sometimes English. Hinduism is practised by more than
+        half of the population, followed by Islam and Christianity.
           </p>
         </div>
 
         <div className="container text-left">
-          <h2>The extra layer of security</h2>
+          
           <br></br>
           <p>
-            If you are a person who already visits Sri Lanka, you will see
-            something has changed. Nowadays, you can see each public places
-            covered up with Army forces to provide the maximum security for
-            everyone. So you really don’t need to worry about safety anymore.
-            Just have to enjoy your vacation.
+          The economy of Kerala is the 8th-largest in India with ₹8.55 trillion (US$110 billion) in
+           gross state domestic product (GSDP) and a per capita net state domestic product of ₹222,000 (US$2,800).
+            The tertiary sector contributes around 65% to state's GSVA, while the primary sector contributes only 8%.         
+             The state has witnessed significant emigration, especially to the Arab states of the Persian Gulf during
+         the Gulf Boom of the 1970s and early 1980s, and its economy depends significantly on remittances
+         from a large Malayali expatriate community.
           </p>
         </div>
 
         <div className="container text-left">
-          <h2>Locals are delighted to help foreigners more than ever</h2>
+         
           <br></br>
           <p>
-            Every Sri Lankans know what happened to Sri Lankan’s tourism
-            industry after the attack. So they want to get into that position
-            that they were previously attained and wanted to develop the tourism
-            industry more than ever. So when you arrived in Sri Lanka and
-            willing to get help from a Sri Lankan, you have to ask, or they will
-            help before you asked. That makes you feel good.
+          The production of pepper and natural rubber contributes significantly to the total national output.
+           In the agricultural sector, coconut, tea, coffee, cashew and spices are important. 
+           The state is situated between Arabian Sea to the west and Western Ghats mountain ranges to the east.
+          The state's coastline extends for 595 kilometres (370 mi), and around 1.1 million people
+          in the state are dependent on the fishery industry which contributes 3% to the state's income.
+           Named as one of the ten paradises of the world by National Geographic Traveler,Kerala is one of the
+           prominent tourist destinations of India, with coconut-lined sandy beaches, backwaters, hill stations,
+           Ayurvedic tourism and tropical greenery as its major attractions.
           </p>
         </div>
         <br></br>
@@ -96,21 +94,14 @@ export class HomePage extends Component {
         <br></br>
 
         <div className="container text-left">
-          <h2>
-            The opinion of some foreign travelers about the current situation in
-            Sri Lanka
-          </h2>
+          <h2>which is the best time to visit Kerala?</h2>
           <br></br>
           <p>
-            If you still confused about your travel plan to Sri Lanka, these
-            living proofs will make you feel so good. Harald Baldr: Harald Baldr
-            is a Youtuber/traveler who has recently visited Sri Lanka and
-            explain the current situation of the country by traveling so many
-            places around Sri Lanka. And his YouTube channel contains vlogs he
-            created when he was going around this beautiful country Sri Lanka.
-            You can see their vlogs on YouTube about the current situation, and
-            there are so many on YouTube from the foreigner who visited Sri
-            Lanka recently. feel free to check.
+          September to February is the best time to visit Kerala when the weather is relatively cooler.
+           While summers (March to May) make the state too hot and the monsoons (June - August) 
+           can receiver downpour that can heavier than imagined and is not entirely advisable to all tourists.
+            But for some, it can be a beautiful amalgamation of festivals, scenic views and the much talked 
+            about Ayurvedic treatments.
           </p>
         </div>
 
